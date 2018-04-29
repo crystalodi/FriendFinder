@@ -1,8 +1,8 @@
 var friendsArr = [
   {
-    "name": "",
-    "photo": "",
-    "scores": [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
+    "name": "Crystal",
+    "photo": "https://placeimg.com/320/240/any",
+    "scores": [5, 3, 3, 5, 2, 1, 5, 5, 5, 1]
   }
 ]
 
