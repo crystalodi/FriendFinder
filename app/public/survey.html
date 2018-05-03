@@ -222,7 +222,7 @@
         //Display Best Match
         $("#resultsPicture").empty();
         $("#resultsName").empty();
-        var resultsImage = $("<img>");
+        var resultsImage = $("<img id='userPic'>");
         resultsImage.attr("src", resp.photo);
         resultsImage.attr("class", "img-fluid");
         $("#resultsPicture").append(resultsImage);
