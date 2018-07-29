@@ -2,6 +2,9 @@
 
 Friend Finder is an app to help you find a friend match based on a survey.
 
+## Live Version
+Go [here](https://crystal-friend-finder.herokuapp.com/) to view the app.
+
 ## About the Application
 
 ## Getting Started
@@ -82,7 +85,7 @@ After following the steps in the Installation section, your folder should look l
 
 * `routing/apiRoutes.js` contains route for getting all friends in `data/friends.js`. The endpoint is `/api/friends` and the method is `GET`. Also contains route to find best matched based on how each question was answered and add Friend Name, url to photo of friend, and survey responses to array in `data/friends.js`. The endpoint is `/api/friends` and the method is `POST`.
 
-* `routing/htmlRoutes.js` contains logic to send `public/home.html` and `public/survey.html` to display in browser as HTML files.
+* `routing/htmlRoutes.js` contains logic to send `public/home.html` and `public/survey.html` to display in browser as HTML files. `public/home.html` corresponds with the endpoint `/` and `public/survey.html` corresponds with the endpoint `/survey`. These are both `GET` requests.
 
 ## How to Use
 
