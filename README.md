@@ -101,7 +101,7 @@ A modal will appear showing the name and a picture of a friend that is the best 
 ## Built With
 
 * NodeJS - The web framework used
-* Express - Dependency Management
+* Express - Creates web server and provides routing for endpoints.
 * Bootstrap - CSS Framework for layout
 
 ## Authors
