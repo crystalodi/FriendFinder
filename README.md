@@ -47,7 +47,7 @@ npm start
 ```
 
 Open a web browser and go to the url http://localhost:3000. Your screen should look like this:
-
+![Friend Finder Home](https://i.imgur.com/8vODbyx.png)
 
 ### Folder Structure
 
@@ -96,6 +96,8 @@ To take the survey, press the "Take Survey" Button on the home page
 Fill out all of the fields on the survey page and press the "Submit Survey" button
 
 A modal will appear showing the name and a picture of a friend that is the best match based on how each question was answered.
+
+![Imgur](https://i.imgur.com/NaIeVHW.gif)
 
 
 ## Built With
